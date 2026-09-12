@@ -1,0 +1,21 @@
+{
+  "name": "recipe_costing_card",
+  "version": "1.0.0",
+  "description": "This is a full-stack monorepo featuring a comprehensive Recipe Costing Card system to track ingredient prices, manage culinary yields, and calculate menu profitability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGSandigoMunoz/Recipe_Costing_Card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MGSandigoMunoz/Recipe_Costing_Card/issues"
+  },
+  "homepage": "https://github.com/MGSandigoMunoz/Recipe_Costing_Card#readme"
+}
