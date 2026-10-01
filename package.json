@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MGSandigoMunoz/Recipe_Costing_Card/issues"
   },
-  "homepage": "https://github.com/MGSandigoMunoz/Recipe_Costing_Card#readme"
+  "homepage": "https://github.com/MGSandigoMunoz/Recipe_Costing_Card#readme",
+  "workspaces":[
+    "apps/*"
+  ]
 }
